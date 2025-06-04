@@ -9,19 +9,19 @@
 - Recognize function-call syntax and separators
 
 
-## Icebreaker (10 min)
+## Icebreaker 
 
 - Prompt: “In one sentence, share a fun fact about you.”
 
 - What special character do we use to wrap strings in code?
 
-## Github setup (10 min)
+## Github setup 
 
 - Get added to the section repo
 - Create a branch for yourself
 - Navigating lesson folders
 
-## Core Concepts (40 min)
+## Core Concepts 
 
 ### print() vs. input() 
 
