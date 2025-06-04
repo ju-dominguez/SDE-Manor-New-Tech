@@ -8,7 +8,6 @@
 
 - Recognize function-call syntax and separators
 
-## Agenda (90 min)
 
 ## Icebreaker (10 min)
 
