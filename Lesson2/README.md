@@ -2,9 +2,9 @@
 
 ## Learning Objectives
 
-- Use print() and input() for console I/O
+- Use `print()` and `input()` for console I/O
 
-- Convert types (str(), int()) when concatenating
+- Convert types (`str()`, `int()`) when concatenating
 
 - Recognize function-call syntax and separators
 
