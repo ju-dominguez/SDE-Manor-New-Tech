@@ -5,8 +5,7 @@
   "features": {
     "ghcr.io/devcontainers-contrib/features/zsh-plugins:0": {
       "plugins": "python poetry gitfast git-extras command-not-found colorize colored-man-pages"
-    },
-    "ghcr.io/devcontainers-contrib/features/bin:1": {} // for any binary release installation
+    }
   },
   // set container specific settings
   "customizations": {
