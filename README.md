@@ -8,11 +8,20 @@ To use this project, follow these steps:
 
 1. **Create a branch for yourself-and stay on it throughout the course**
    - Click the "branch" button in the top-left corner of the GitHub repo to create a branch names after you
-   - At the start of each class, pull the latest `main` into your branch (example below)
-   - Work in the new lesson folder (e.g. lessons/lesson-2/), commit your changes there, and push to your branch.
+   - At the start of each class, pull the latest `main` into your branch. 
+   - Work in the new lesson folder (e.g. lessons/lesson-2/), commit your changes to main.py, and push to your branch to save your work.
 ```bash
-git fetch origin
+# make sure you are on your branch
+git checkout julie
+
+# fetch your latest main
+git fetch origin main
+
+# merge it in
 git merge origin/main
+
+# push changes up
+git push origin julie
 ```
 
 2. **Create a Codespace**
