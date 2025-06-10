@@ -1,4 +1,4 @@
-# Lesson 3: Conditional Logic & Input
+# Lesson 4: Conditional Logic & Input
 
 ## Learning Objectives
 
