@@ -6,11 +6,16 @@ This project provides a Python development environment pre-configured for use wi
 
 To use this project, follow these steps:
 
-1. **Fork this Repository**
-   - Click the "Fork" button in the top-right corner of the GitHub page to create a copy of this repository in your account.
+1. **Create a branch for yourself-and stay on it throughout the course**
+   - Click the "branch" button in the top-left corner of the GitHub repo to create a branch names after you
+   - At the start of each class, pull the latest `main` into your branch (example below)
+   - Work in the new lesson folder (e.g. lessons/lesson-2/), commit your changes there, and push to your branch.
+```bash
+git fetch origin
+git merge origin/main
+```
 
 2. **Create a Codespace**
-   - Navigate to the forked repository.
    - Click the green "Code" button.
    - Select the "Codespaces" tab in the popup.
    - Click the `+` button to create a new Codespace.
