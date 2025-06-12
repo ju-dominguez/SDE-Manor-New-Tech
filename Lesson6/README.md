@@ -67,7 +67,7 @@ else:
 - The `if` check (`guess == "python"`) runs each iteration; if false, Python skips the `print` and `break` lines, then does `attempts += 1`.
 - If the loop completes all 3 iterations without a `break`, the `else:` block runs.
 
-5. Counting Iterations & Avoiding Infinite Loops
+### 5. Counting Iterations & Avoiding Infinite Loops
 ```python
 n = 2
 while n < 11:
